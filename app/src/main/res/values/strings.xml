@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JRA</string>
+    <string name="todo">TODO</string>
+    <string name="ruqyah_an_nahdliyah">Ruqyah An-Nahdliyah</string>
+    <string name="cari_praktisi_terdekat">Cari Praktisi Terdekat</string>
+    <string name="silatourahmi">Silaturahmi</string>
+    <string name="website">Website</string>
+    <string name="email">Email</string>
+    <string name="callcenter">Call Center</string>
+    <string name="layanan_kami">Layanan Kami</string>
+</resources>
+
